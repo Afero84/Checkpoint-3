@@ -32,6 +32,7 @@
 ### Q.2.2.2 Autoriser l'accès à distance à ton compte personnel uniquement.
 
 Éditer le fichier sshd_config avec la commande nano /etc/ssh/sshd_config
+
 ![image](https://github.com/user-attachments/assets/1b8568cb-37c8-4bbd-ab16-1a260283ffeb)
 
 
