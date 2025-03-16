@@ -80,18 +80,24 @@ LVM
 
 Création du volume logique 
 
+![image](https://github.com/user-attachments/assets/7819115a-5ea5-4189-abd5-05cb9660d281)
 
 Formatage du volume logique
 
+![image](https://github.com/user-attachments/assets/ed6967aa-1c39-49cb-a563-cbf30c6d376d)
 
+![image](https://github.com/user-attachments/assets/6f3c4ca0-64c4-4665-898c-c9ec92858095)
 
+![image](https://github.com/user-attachments/assets/6b24150c-c193-471a-8b34-eea8d92621ff)
 
+![image](https://github.com/user-attachments/assets/bb4d77af-4826-45c3-8f89-3466e99dab52)
 
 
 
 
 ### Q.2.3.5 Combien d'espace disponible reste-t-il dans le groupe de volume ?
 
+![image](https://github.com/user-attachments/assets/c455b8e7-f01d-4bc9-9993-ddb09c2ce176)
 
 
 ## Partie 4 - Sauvegardes
@@ -107,7 +113,7 @@ Bareos File Daemon (bareos-fd) → Lit les fichiers sur le client et les envoie 
 
 ### Q.2.5.1 Quelles sont actuellement les règles appliquées sur Netfilter ?
 
-
+![image](https://github.com/user-attachments/assets/dcc59a1b-1a01-45ba-bff1-46f2f0c6f5f9)
 
 ### Q.2.5.2 Quels types de communications sont autorisées ?
 
@@ -123,7 +129,7 @@ Tout le reste.
 
 ### Q.2.5.4 Sur nftables, ajouter les règles nécessaires pour autoriser bareos à communiquer avec les clients bareos potentiellement présents sur l'ensemble des machines du réseau local sur lequel se trouve le serveur.
 
-
+![image](https://github.com/user-attachments/assets/71d9abd1-c7b2-435e-a614-ba8101a810ff)
 
 ## Partie 6 - Analyse de logs
 
@@ -132,6 +138,7 @@ Tout le reste.
     La date et l'heure de la tentative
     L'adresse IP de la machine ayant fait la tentative
 
+![image](https://github.com/user-attachments/assets/1b9c76e3-01d3-41ed-b1b6-a4ae07601581)
 
 
 
